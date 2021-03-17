@@ -20,5 +20,3 @@ function getSaludo2(nombre) {
 };
 
 console.log(`Este es un saludo: ${getSaludo2(nombre)}`)
-
-
