@@ -21,7 +21,7 @@ const persona2 = persona;
 const persona3 = { ...persona };
 persona3.nombre = 'El pepe'
 
-//Despues de modifica el valor de nuestro ultimo objeto podemos verificar los valores de todas las personas y ver que el ultimo es un objeto independiente
+//Despues se modifica el valor de nuestro ultimo objeto podemos verificar los valores de todas las personas y ver que el ultimo es un objeto independiente
 console.log(persona);
 console.log(persona2);
 console.log(persona3);
